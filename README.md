@@ -62,8 +62,3 @@ The main goal of the project is to help the company:
 - **Data Modeling Techniques**  
 
 ---
-
-## 🚀 Future Improvements  
-- Build an interactive **Power BI Dashboard**  
-- Implement advanced **predictive analytics**  
-- Compare **seasonal vs. non-seasonal sales**
